@@ -1,0 +1,174 @@
+,outcome_type,outcome_hour,count
+0,Adoption,17,2815
+1,Adoption,18,2504
+2,Adoption,16,1360
+3,Adoption,12,1119
+4,Adoption,15,1036
+5,Adoption,14,1032
+6,Adoption,13,981
+7,Adoption,19,797
+8,Adoption,11,586
+9,Adoption,10,174
+10,Adoption,8,159
+11,Adoption,9,148
+12,Adoption,7,81
+13,Adoption,0,63
+14,Adoption,20,63
+15,Adoption,21,22
+16,Adoption,6,9
+17,Adoption,22,7
+18,Adoption,23,5
+19,Adoption,1,2
+20,Adoption,5,2
+21,Adoption,2,1
+22,Adoption,3,1
+23,Died,17,404
+24,Died,18,385
+25,Died,14,301
+26,Died,16,283
+27,Died,15,264
+28,Died,13,235
+29,Died,12,214
+30,Died,9,173
+31,Died,11,160
+32,Died,19,129
+33,Died,10,80
+34,Died,0,73
+35,Died,8,65
+36,Died,7,27
+37,Died,20,10
+38,Died,21,9
+39,Died,23,9
+40,Died,5,2
+41,Died,22,2
+42,Died,1,1
+43,Died,2,1
+44,Died,3,1
+45,Died,6,1
+46,Disposal,8,58
+47,Disposal,9,25
+48,Disposal,10,22
+49,Disposal,12,14
+50,Disposal,17,14
+51,Disposal,16,10
+52,Disposal,18,9
+53,Disposal,19,9
+54,Disposal,11,4
+55,Disposal,14,4
+56,Disposal,15,4
+57,Disposal,13,3
+58,Disposal,0,1
+59,Disposal,20,1
+60,Euthanasia,15,433
+61,Euthanasia,17,432
+62,Euthanasia,8,389
+63,Euthanasia,16,388
+64,Euthanasia,9,384
+65,Euthanasia,14,363
+66,Euthanasia,12,316
+67,Euthanasia,18,316
+68,Euthanasia,13,312
+69,Euthanasia,11,309
+70,Euthanasia,10,298
+71,Euthanasia,19,153
+72,Euthanasia,7,34
+73,Euthanasia,0,5
+74,Euthanasia,21,5
+75,Euthanasia,3,2
+76,Euthanasia,2,1
+77,Euthanasia,5,1
+78,Euthanasia,6,1
+79,Euthanasia,20,1
+80,Euthanasia,23,1
+81,Missing,17,409
+82,Missing,18,362
+83,Missing,14,301
+84,Missing,15,268
+85,Missing,16,252
+86,Missing,13,238
+87,Missing,12,228
+88,Missing,11,155
+89,Missing,9,129
+90,Missing,19,121
+91,Missing,0,50
+92,Missing,8,31
+93,Missing,10,27
+94,Missing,7,10
+95,Missing,20,6
+96,Missing,21,4
+97,Missing,6,3
+98,Missing,22,3
+99,Missing,23,2
+100,Relocate,17,393
+101,Relocate,18,342
+102,Relocate,14,261
+103,Relocate,13,260
+104,Relocate,15,257
+105,Relocate,16,245
+106,Relocate,12,236
+107,Relocate,9,163
+108,Relocate,11,162
+109,Relocate,19,126
+110,Relocate,0,42
+111,Relocate,10,30
+112,Relocate,8,23
+113,Relocate,20,13
+114,Relocate,7,11
+115,Relocate,23,4
+116,Relocate,21,3
+117,Relocate,22,2
+118,Return to Owner,18,1634
+119,Return to Owner,17,1633
+120,Return to Owner,11,1289
+121,Return to Owner,16,1100
+122,Return to Owner,12,973
+123,Return to Owner,15,874
+124,Return to Owner,14,849
+125,Return to Owner,13,825
+126,Return to Owner,19,357
+127,Return to Owner,10,58
+128,Return to Owner,0,52
+129,Return to Owner,9,34
+130,Return to Owner,8,12
+131,Return to Owner,7,8
+132,Return to Owner,21,8
+133,Return to Owner,20,4
+134,Return to Owner,23,4
+135,Return to Owner,22,3
+136,Return to Owner,6,1
+137,Rto-Adopt,18,364
+138,Rto-Adopt,17,339
+139,Rto-Adopt,14,267
+140,Rto-Adopt,16,247
+141,Rto-Adopt,15,244
+142,Rto-Adopt,13,235
+143,Rto-Adopt,12,209
+144,Rto-Adopt,11,162
+145,Rto-Adopt,9,134
+146,Rto-Adopt,19,122
+147,Rto-Adopt,0,50
+148,Rto-Adopt,8,31
+149,Rto-Adopt,10,19
+150,Rto-Adopt,7,15
+151,Rto-Adopt,20,8
+152,Rto-Adopt,21,2
+153,Rto-Adopt,5,1
+154,Rto-Adopt,6,1
+155,Transfer,14,1454
+156,Transfer,15,1325
+157,Transfer,13,1182
+158,Transfer,9,1113
+159,Transfer,12,1047
+160,Transfer,16,963
+161,Transfer,17,798
+162,Transfer,11,795
+163,Transfer,18,667
+164,Transfer,0,434
+165,Transfer,19,307
+166,Transfer,10,144
+167,Transfer,8,77
+168,Transfer,7,15
+169,Transfer,20,15
+170,Transfer,23,7
+171,Transfer,6,1
+172,Transfer,21,1

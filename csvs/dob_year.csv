@@ -1,0 +1,170 @@
+,outcome_type,dob_year,count
+0,Adoption,2014,3453
+1,Adoption,2015,2836
+2,Adoption,2013,2732
+3,Adoption,2012,1270
+4,Adoption,2011,715
+5,Adoption,2010,475
+6,Adoption,2009,342
+7,Adoption,2008,264
+8,Adoption,2007,245
+9,Adoption,2006,176
+10,Adoption,2005,121
+11,Adoption,2004,91
+12,Adoption,2016,89
+13,Adoption,2003,49
+14,Adoption,2002,46
+15,Adoption,2001,30
+16,Adoption,2000,17
+17,Adoption,1998,9
+18,Adoption,1999,5
+19,Adoption,1997,2
+20,Died,2014,769
+21,Died,2015,676
+22,Died,2013,536
+23,Died,2012,297
+24,Died,2011,162
+25,Died,2010,86
+26,Died,2009,70
+27,Died,2008,61
+28,Died,2006,38
+29,Died,2007,35
+30,Died,2005,25
+31,Died,2016,21
+32,Died,2004,18
+33,Died,2002,13
+34,Died,2003,8
+35,Died,2001,7
+36,Died,2000,5
+37,Died,1999,2
+38,Disposal,2013,76
+39,Disposal,2014,40
+40,Disposal,2015,38
+41,Disposal,2012,14
+42,Disposal,2011,9
+43,Disposal,2010,1
+44,Euthanasia,2013,986
+45,Euthanasia,2014,909
+46,Euthanasia,2012,514
+47,Euthanasia,2015,502
+48,Euthanasia,2011,328
+49,Euthanasia,2010,162
+50,Euthanasia,2009,110
+51,Euthanasia,2007,86
+52,Euthanasia,2004,81
+53,Euthanasia,2006,81
+54,Euthanasia,2008,77
+55,Euthanasia,2002,61
+56,Euthanasia,2005,61
+57,Euthanasia,2003,48
+58,Euthanasia,2001,43
+59,Euthanasia,2000,33
+60,Euthanasia,1999,23
+61,Euthanasia,1998,16
+62,Euthanasia,2016,7
+63,Euthanasia,1994,6
+64,Euthanasia,1997,5
+65,Euthanasia,1996,4
+66,Euthanasia,1995,1
+67,Missing,2014,728
+68,Missing,2015,576
+69,Missing,2013,556
+70,Missing,2012,279
+71,Missing,2011,114
+72,Missing,2010,86
+73,Missing,2009,61
+74,Missing,2008,46
+75,Missing,2006,35
+76,Missing,2007,35
+77,Missing,2005,23
+78,Missing,2004,18
+79,Missing,2016,16
+80,Missing,2001,8
+81,Missing,2002,6
+82,Missing,2003,6
+83,Missing,2000,3
+84,Missing,1999,2
+85,Missing,1998,1
+86,Relocate,2014,727
+87,Relocate,2015,517
+88,Relocate,2013,511
+89,Relocate,2012,269
+90,Relocate,2011,171
+91,Relocate,2010,90
+92,Relocate,2009,67
+93,Relocate,2008,51
+94,Relocate,2007,41
+95,Relocate,2006,33
+96,Relocate,2005,32
+97,Relocate,2004,20
+98,Relocate,2016,17
+99,Relocate,2002,12
+100,Relocate,2003,5
+101,Relocate,2000,3
+102,Relocate,2001,3
+103,Relocate,1996,2
+104,Relocate,1999,2
+105,Return to Owner,2013,1636
+106,Return to Owner,2012,1493
+107,Return to Owner,2014,1137
+108,Return to Owner,2011,1100
+109,Return to Owner,2010,784
+110,Return to Owner,2009,656
+111,Return to Owner,2008,531
+112,Return to Owner,2015,504
+113,Return to Owner,2007,463
+114,Return to Owner,2006,335
+115,Return to Owner,2005,274
+116,Return to Owner,2004,217
+117,Return to Owner,2002,149
+118,Return to Owner,2003,142
+119,Return to Owner,2001,105
+120,Return to Owner,2000,73
+121,Return to Owner,1999,58
+122,Return to Owner,1998,24
+123,Return to Owner,1997,14
+124,Return to Owner,2016,13
+125,Return to Owner,1995,4
+126,Return to Owner,1996,3
+127,Return to Owner,1992,1
+128,Return to Owner,1993,1
+129,Return to Owner,1994,1
+130,Rto-Adopt,2014,703
+131,Rto-Adopt,2015,527
+132,Rto-Adopt,2013,508
+133,Rto-Adopt,2012,255
+134,Rto-Adopt,2011,135
+135,Rto-Adopt,2010,74
+136,Rto-Adopt,2009,65
+137,Rto-Adopt,2008,46
+138,Rto-Adopt,2007,39
+139,Rto-Adopt,2006,27
+140,Rto-Adopt,2004,19
+141,Rto-Adopt,2005,14
+142,Rto-Adopt,2016,13
+143,Rto-Adopt,2002,8
+144,Rto-Adopt,2003,7
+145,Rto-Adopt,2001,6
+146,Rto-Adopt,2000,3
+147,Rto-Adopt,1998,1
+148,Transfer,2014,3126
+149,Transfer,2015,2263
+150,Transfer,2013,2115
+151,Transfer,2012,973
+152,Transfer,2011,555
+153,Transfer,2010,310
+154,Transfer,2009,240
+155,Transfer,2008,173
+156,Transfer,2007,132
+157,Transfer,2006,103
+158,Transfer,2005,94
+159,Transfer,2004,70
+160,Transfer,2016,56
+161,Transfer,2003,41
+162,Transfer,2002,37
+163,Transfer,2000,22
+164,Transfer,2001,21
+165,Transfer,1998,6
+166,Transfer,1999,6
+167,Transfer,1994,1
+168,Transfer,1995,1

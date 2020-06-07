@@ -1,0 +1,60 @@
+outcome_type,breed,count,count_percentage
+Adoption,Other,6205,12.980356881367278
+Adoption,Domestic Shorthair Mix,3544,7.413760642637492
+Adoption,Chihuahua Shorthair Mix,923,1.9308411605966154
+Adoption,Pit Bull Mix,829,1.734200782377675
+Adoption,Labrador Retriever Mix,757,1.5835826203376357
+Adoption,Domestic Medium Hair Mix,380,0.7949291885446521
+Adoption,German Shepherd Mix,329,0.6882413237662908
+Died,Other,1211,2.5333138087567724
+Died,Domestic Shorthair Mix,1010,2.1128381063949964
+Died,Chihuahua Shorthair Mix,169,0.35353429701064787
+Died,Pit Bull Mix,149,0.3116959186661925
+Died,Labrador Retriever Mix,141,0.29496056732841036
+Died,Domestic Medium Hair Mix,97,0.20291613497060856
+Died,German Shepherd Mix,52,0.10877978369558397
+Euthanasia,Other,2637,5.51639018471644
+Euthanasia,Domestic Shorthair Mix,765,1.600317971675418
+Euthanasia,Pit Bull Mix,397,0.8304918101374391
+Euthanasia,Chihuahua Shorthair Mix,126,0.26358178357006884
+Euthanasia,Labrador Retriever Mix,95,0.19873229713616303
+Euthanasia,Domestic Medium Hair Mix,86,0.1799050268811581
+Euthanasia,German Shepherd Mix,38,0.0794929188544652
+Missing,Other,1105,2.3115704035311593
+Missing,Domestic Shorthair Mix,903,1.88900278225216
+Missing,Chihuahua Shorthair Mix,159,0.3326151078384202
+Missing,Pit Bull Mix,155,0.3242474321695291
+Missing,Labrador Retriever Mix,131,0.2740413781561827
+Missing,Domestic Medium Hair Mix,88,0.18408886471560362
+Missing,German Shepherd Mix,58,0.12133129719892058
+Other,Other,176,0.36817772943120725
+Other,Domestic Shorthair Mix,1,0.0020919189172227686
+Other,German Shepherd Mix,1,0.0020919189172227686
+Relocate,Other,1152,2.4098905926406293
+Relocate,Domestic Shorthair Mix,896,1.8743593498316007
+Relocate,Chihuahua Shorthair Mix,139,0.2907767294939648
+Relocate,Pit Bull Mix,137,0.2865928916595193
+Relocate,Labrador Retriever Mix,106,0.22174340522561348
+Relocate,Domestic Medium Hair Mix,89,0.1861807836328264
+Relocate,German Shepherd Mix,54,0.1129636215300295
+Return to Owner,Other,5722,11.96996004434868
+Return to Owner,Pit Bull Mix,1433,2.9977198083802272
+Return to Owner,Chihuahua Shorthair Mix,760,1.5898583770893042
+Return to Owner,Labrador Retriever Mix,755,1.5793987825031903
+Return to Owner,Domestic Shorthair Mix,639,1.336736188105349
+Return to Owner,German Shepherd Mix,357,0.7468150534485283
+Return to Owner,Domestic Medium Hair Mix,52,0.10877978369558397
+Rto-Adopt,Other,1054,2.204882538752798
+Rto-Adopt,Domestic Shorthair Mix,859,1.7969583498943582
+Rto-Adopt,Pit Bull Mix,158,0.3305231889211974
+Rto-Adopt,Chihuahua Shorthair Mix,139,0.2907767294939648
+Rto-Adopt,Labrador Retriever Mix,109,0.22801916197728178
+Rto-Adopt,Domestic Medium Hair Mix,78,0.16316967554337594
+Rto-Adopt,German Shepherd Mix,53,0.11087170261280674
+Transfer,Domestic Shorthair Mix,4722,9.878041127125913
+Transfer,Other,3591,7.512080831746962
+Transfer,Pit Bull Mix,562,1.1756584314791958
+Transfer,Chihuahua Shorthair Mix,559,1.1693826747275275
+Transfer,Domestic Medium Hair Mix,414,0.8660544317302262
+Transfer,Labrador Retriever Mix,363,0.7593665669518649
+Transfer,German Shepherd Mix,134,0.280317134907851

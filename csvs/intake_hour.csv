@@ -1,0 +1,208 @@
+,outcome_type,intake_hour,count
+0,Adoption,11,2207
+1,Adoption,12,1855
+2,Adoption,13,1626
+3,Adoption,14,1470
+4,Adoption,15,1394
+5,Adoption,16,1352
+6,Adoption,18,851
+7,Adoption,17,811
+8,Adoption,10,542
+9,Adoption,9,175
+10,Adoption,7,169
+11,Adoption,8,128
+12,Adoption,19,113
+13,Adoption,21,69
+14,Adoption,22,54
+15,Adoption,23,54
+16,Adoption,0,34
+17,Adoption,20,28
+18,Adoption,6,16
+19,Adoption,1,10
+20,Adoption,2,4
+21,Adoption,4,3
+22,Adoption,3,1
+23,Adoption,5,1
+24,Died,11,471
+25,Died,12,380
+26,Died,13,347
+27,Died,14,299
+28,Died,16,294
+29,Died,15,290
+30,Died,18,192
+31,Died,17,175
+32,Died,10,122
+33,Died,7,56
+34,Died,9,42
+35,Died,8,35
+36,Died,19,22
+37,Died,22,19
+38,Died,21,18
+39,Died,23,18
+40,Died,0,15
+41,Died,20,11
+42,Died,6,9
+43,Died,3,7
+44,Died,1,5
+45,Died,4,2
+46,Disposal,18,43
+47,Disposal,16,33
+48,Disposal,23,16
+49,Disposal,0,11
+50,Disposal,22,11
+51,Disposal,12,9
+52,Disposal,13,7
+53,Disposal,15,7
+54,Disposal,21,7
+55,Disposal,11,6
+56,Disposal,19,5
+57,Disposal,1,4
+58,Disposal,2,3
+59,Disposal,7,3
+60,Disposal,17,3
+61,Disposal,3,2
+62,Disposal,8,2
+63,Disposal,9,2
+64,Disposal,20,2
+65,Disposal,10,1
+66,Disposal,14,1
+67,Euthanasia,16,563
+68,Euthanasia,11,465
+69,Euthanasia,13,425
+70,Euthanasia,14,394
+71,Euthanasia,12,384
+72,Euthanasia,15,381
+73,Euthanasia,17,288
+74,Euthanasia,18,260
+75,Euthanasia,10,199
+76,Euthanasia,9,116
+77,Euthanasia,8,115
+78,Euthanasia,23,94
+79,Euthanasia,19,92
+80,Euthanasia,7,84
+81,Euthanasia,0,67
+82,Euthanasia,22,66
+83,Euthanasia,21,53
+84,Euthanasia,20,33
+85,Euthanasia,1,20
+86,Euthanasia,3,11
+87,Euthanasia,4,11
+88,Euthanasia,6,11
+89,Euthanasia,2,7
+90,Euthanasia,5,5
+91,Missing,11,465
+92,Missing,12,384
+93,Missing,13,335
+94,Missing,14,316
+95,Missing,15,256
+96,Missing,16,249
+97,Missing,17,186
+98,Missing,18,132
+99,Missing,10,99
+100,Missing,9,37
+101,Missing,8,33
+102,Missing,7,29
+103,Missing,19,22
+104,Missing,21,17
+105,Missing,23,13
+106,Missing,22,9
+107,Missing,6,7
+108,Missing,20,3
+109,Missing,0,2
+110,Missing,3,2
+111,Missing,1,1
+112,Missing,2,1
+113,Missing,5,1
+114,Relocate,11,471
+115,Relocate,12,376
+116,Relocate,13,335
+117,Relocate,14,298
+118,Relocate,15,271
+119,Relocate,16,238
+120,Relocate,17,165
+121,Relocate,18,151
+122,Relocate,10,105
+123,Relocate,7,36
+124,Relocate,9,33
+125,Relocate,8,31
+126,Relocate,22,22
+127,Relocate,19,11
+128,Relocate,20,8
+129,Relocate,21,6
+130,Relocate,23,6
+131,Relocate,6,4
+132,Relocate,1,2
+133,Relocate,4,2
+134,Relocate,0,1
+135,Relocate,3,1
+136,Return to Owner,11,1414
+137,Return to Owner,12,1158
+138,Return to Owner,13,1094
+139,Return to Owner,16,981
+140,Return to Owner,14,972
+141,Return to Owner,15,908
+142,Return to Owner,18,696
+143,Return to Owner,17,668
+144,Return to Owner,10,496
+145,Return to Owner,7,200
+146,Return to Owner,8,192
+147,Return to Owner,9,176
+148,Return to Owner,19,162
+149,Return to Owner,22,118
+150,Return to Owner,23,99
+151,Return to Owner,21,96
+152,Return to Owner,20,95
+153,Return to Owner,0,61
+154,Return to Owner,2,35
+155,Return to Owner,1,34
+156,Return to Owner,6,28
+157,Return to Owner,3,17
+158,Return to Owner,4,10
+159,Return to Owner,5,8
+160,Rto-Adopt,11,417
+161,Rto-Adopt,12,336
+162,Rto-Adopt,13,302
+163,Rto-Adopt,14,302
+164,Rto-Adopt,15,259
+165,Rto-Adopt,16,242
+166,Rto-Adopt,17,161
+167,Rto-Adopt,18,148
+168,Rto-Adopt,10,101
+169,Rto-Adopt,7,39
+170,Rto-Adopt,9,34
+171,Rto-Adopt,8,27
+172,Rto-Adopt,19,24
+173,Rto-Adopt,23,15
+174,Rto-Adopt,22,12
+175,Rto-Adopt,20,8
+176,Rto-Adopt,21,8
+177,Rto-Adopt,0,6
+178,Rto-Adopt,6,4
+179,Rto-Adopt,1,2
+180,Rto-Adopt,2,1
+181,Rto-Adopt,3,1
+182,Rto-Adopt,4,1
+183,Transfer,11,1792
+184,Transfer,12,1573
+185,Transfer,13,1290
+186,Transfer,15,1133
+187,Transfer,14,1131
+188,Transfer,16,948
+189,Transfer,17,666
+190,Transfer,18,602
+191,Transfer,10,400
+192,Transfer,7,164
+193,Transfer,9,158
+194,Transfer,8,137
+195,Transfer,19,89
+196,Transfer,23,62
+197,Transfer,22,52
+198,Transfer,21,42
+199,Transfer,6,31
+200,Transfer,0,24
+201,Transfer,20,23
+202,Transfer,1,13
+203,Transfer,3,10
+204,Transfer,2,2
+205,Transfer,5,2
+206,Transfer,4,1

@@ -1,0 +1,109 @@
+,outcome_type,intake_month,count
+0,Adoption,10,1387
+1,Adoption,5,1201
+2,Adoption,12,1126
+3,Adoption,6,1124
+4,Adoption,11,1123
+5,Adoption,1,1108
+6,Adoption,2,1102
+7,Adoption,7,1054
+8,Adoption,3,1046
+9,Adoption,8,962
+10,Adoption,9,927
+11,Adoption,4,807
+12,Died,6,312
+13,Died,10,292
+14,Died,11,256
+15,Died,5,247
+16,Died,7,237
+17,Died,3,234
+18,Died,1,216
+19,Died,9,216
+20,Died,8,211
+21,Died,2,208
+22,Died,4,200
+23,Died,12,200
+24,Disposal,8,59
+25,Disposal,3,30
+26,Disposal,2,24
+27,Disposal,9,17
+28,Disposal,10,14
+29,Disposal,4,7
+30,Disposal,7,7
+31,Disposal,1,5
+32,Disposal,11,5
+33,Disposal,6,4
+34,Disposal,5,3
+35,Disposal,12,3
+36,Euthanasia,3,612
+37,Euthanasia,10,424
+38,Euthanasia,5,357
+39,Euthanasia,2,349
+40,Euthanasia,6,346
+41,Euthanasia,11,339
+42,Euthanasia,4,323
+43,Euthanasia,12,322
+44,Euthanasia,7,293
+45,Euthanasia,1,290
+46,Euthanasia,8,256
+47,Euthanasia,9,233
+48,Missing,10,282
+49,Missing,5,255
+50,Missing,11,255
+51,Missing,6,246
+52,Missing,1,212
+53,Missing,7,209
+54,Missing,3,201
+55,Missing,9,201
+56,Missing,8,199
+57,Missing,2,192
+58,Missing,12,181
+59,Missing,4,166
+60,Relocate,6,248
+61,Relocate,10,246
+62,Relocate,5,233
+63,Relocate,3,228
+64,Relocate,8,219
+65,Relocate,9,218
+66,Relocate,7,212
+67,Relocate,11,210
+68,Relocate,1,208
+69,Relocate,2,197
+70,Relocate,12,185
+71,Relocate,4,169
+72,Return to Owner,3,998
+73,Return to Owner,10,950
+74,Return to Owner,12,950
+75,Return to Owner,11,937
+76,Return to Owner,1,923
+77,Return to Owner,2,834
+78,Return to Owner,5,827
+79,Return to Owner,4,770
+80,Return to Owner,7,649
+81,Return to Owner,6,634
+82,Return to Owner,8,624
+83,Return to Owner,9,622
+84,Rto-Adopt,10,259
+85,Rto-Adopt,11,239
+86,Rto-Adopt,6,225
+87,Rto-Adopt,1,212
+88,Rto-Adopt,5,206
+89,Rto-Adopt,12,206
+90,Rto-Adopt,8,204
+91,Rto-Adopt,9,192
+92,Rto-Adopt,7,189
+93,Rto-Adopt,3,179
+94,Rto-Adopt,4,175
+95,Rto-Adopt,2,164
+96,Transfer,10,1183
+97,Transfer,6,1086
+98,Transfer,5,1015
+99,Transfer,11,932
+100,Transfer,7,895
+101,Transfer,9,884
+102,Transfer,8,844
+103,Transfer,4,771
+104,Transfer,12,717
+105,Transfer,3,716
+106,Transfer,1,693
+107,Transfer,2,609

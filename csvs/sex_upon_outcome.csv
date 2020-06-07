@@ -1,0 +1,46 @@
+outcome_type,sex_upon_outcome,count,count_percentage
+Adoption,Neutered Male,6344,13.271411238023514
+Adoption,Spayed Female,6161,12.88858206769591
+Adoption,Intact Female,235,0.49161122965566295
+Adoption,Intact Male,206,0.4309443119534747
+Adoption,Unknown,21,0.043931216267101794
+Died,Neutered Male,956,1.9999163214928246
+Died,Spayed Female,896,1.8743985607296767
+Died,Intact Male,383,0.8012217062047614
+Died,Intact Female,361,0.7551985272582737
+Died,Unknown,233,0.48742730429689135
+Euthanasia,Unknown,1884,3.9412576879628465
+Euthanasia,Intact Male,753,1.5752478975775073
+Euthanasia,Intact Female,616,1.2886490105016528
+Euthanasia,Neutered Male,546,1.1422116229446466
+Euthanasia,Spayed Female,345,0.7217271243881009
+Missing,Neutered Male,938,1.9622609932638801
+Missing,Spayed Female,913,1.9099619262792351
+Missing,Intact Female,324,0.6777959081209991
+Missing,Intact Male,300,0.6275888038157399
+Missing,Unknown,124,0.25940337224383914
+Other,Unknown,154,0.3221622526254132
+Other,Intact Male,20,0.041839253587715994
+Other,Spayed Female,2,0.0041839253587716
+Other,Intact Female,1,0.0020919626793858
+Other,Neutered Male,1,0.0020919626793858
+Relocate,Neutered Male,942,1.9706288439814232
+Relocate,Spayed Female,904,1.891134262164763
+Relocate,Intact Female,324,0.6777959081209991
+Relocate,Intact Male,286,0.5983013263043387
+Relocate,Unknown,117,0.2447596334881386
+Return to Owner,Neutered Male,4698,9.828040667754486
+Return to Owner,Spayed Female,3531,7.3867202209112595
+Return to Owner,Intact Male,910,1.9036860382410778
+Return to Owner,Intact Female,549,1.148487510982804
+Return to Owner,Unknown,29,0.0606669177021882
+Rto-Adopt,Neutered Male,904,1.891134262164763
+Rto-Adopt,Spayed Female,860,1.799087904271788
+Rto-Adopt,Intact Female,318,0.6652441320446842
+Rto-Adopt,Intact Male,250,0.5229906698464499
+Rto-Adopt,Unknown,118,0.2468515961675244
+Transfer,Intact Female,2650,5.5437011003723695
+Transfer,Intact Male,2456,5.137860340571524
+Transfer,Neutered Male,2230,4.665076775030333
+Transfer,Spayed Female,1887,3.947533576001004
+Transfer,Unknown,1122,2.3471821262708676

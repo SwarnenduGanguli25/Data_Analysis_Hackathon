@@ -1,0 +1,53 @@
+,outcome_type,intake_year,count
+0,Adoption,2015,5234
+1,Adoption,2014,4884
+2,Adoption,2016,1412
+3,Adoption,2013,1148
+4,Adoption,2017,249
+5,Adoption,2018,40
+6,Died,2015,1156
+7,Died,2014,1130
+8,Died,2016,266
+9,Died,2013,244
+10,Died,2017,28
+11,Died,2018,5
+12,Disposal,2014,105
+13,Disposal,2016,33
+14,Disposal,2015,25
+15,Disposal,2013,15
+16,Euthanasia,2014,1839
+17,Euthanasia,2015,1480
+18,Euthanasia,2013,446
+19,Euthanasia,2016,358
+20,Euthanasia,2017,20
+21,Euthanasia,2018,1
+22,Missing,2015,1068
+23,Missing,2014,1038
+24,Missing,2013,232
+25,Missing,2016,218
+26,Missing,2017,36
+27,Missing,2018,7
+28,Relocate,2014,1065
+29,Relocate,2015,992
+30,Relocate,2016,261
+31,Relocate,2013,203
+32,Relocate,2017,50
+33,Relocate,2018,2
+34,Return to Owner,2015,3495
+35,Return to Owner,2014,3296
+36,Return to Owner,2016,1444
+37,Return to Owner,2013,738
+38,Return to Owner,2017,609
+39,Return to Owner,2018,136
+40,Rto-Adopt,2015,1032
+41,Rto-Adopt,2014,920
+42,Rto-Adopt,2013,226
+43,Rto-Adopt,2016,203
+44,Rto-Adopt,2017,56
+45,Rto-Adopt,2018,13
+46,Transfer,2014,4367
+47,Transfer,2015,4215
+48,Transfer,2013,926
+49,Transfer,2016,707
+50,Transfer,2017,119
+51,Transfer,2018,11

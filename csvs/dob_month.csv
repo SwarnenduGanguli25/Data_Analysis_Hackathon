@@ -1,0 +1,109 @@
+,outcome_type,dob_month,count
+0,Adoption,4,1470
+1,Adoption,3,1182
+2,Adoption,5,1170
+3,Adoption,8,1106
+4,Adoption,10,1098
+5,Adoption,6,1095
+6,Adoption,9,1083
+7,Adoption,7,1029
+8,Adoption,1,990
+9,Adoption,12,971
+10,Adoption,2,911
+11,Adoption,11,862
+12,Died,4,307
+13,Died,5,275
+14,Died,3,268
+15,Died,8,262
+16,Died,6,248
+17,Died,7,231
+18,Died,10,227
+19,Died,1,221
+20,Died,9,219
+21,Died,12,195
+22,Died,2,192
+23,Died,11,184
+24,Disposal,8,43
+25,Disposal,3,32
+26,Disposal,2,28
+27,Disposal,7,18
+28,Disposal,9,16
+29,Disposal,4,10
+30,Disposal,10,9
+31,Disposal,11,9
+32,Disposal,1,6
+33,Disposal,6,4
+34,Disposal,12,2
+35,Disposal,5,1
+36,Euthanasia,3,616
+37,Euthanasia,5,404
+38,Euthanasia,4,393
+39,Euthanasia,10,381
+40,Euthanasia,2,359
+41,Euthanasia,9,323
+42,Euthanasia,12,319
+43,Euthanasia,7,281
+44,Euthanasia,1,277
+45,Euthanasia,6,275
+46,Euthanasia,11,260
+47,Euthanasia,8,256
+48,Missing,4,288
+49,Missing,5,268
+50,Missing,3,235
+51,Missing,8,233
+52,Missing,6,232
+53,Missing,7,229
+54,Missing,10,226
+55,Missing,9,210
+56,Missing,12,179
+57,Missing,2,175
+58,Missing,1,164
+59,Missing,11,160
+60,Relocate,4,284
+61,Relocate,5,259
+62,Relocate,3,257
+63,Relocate,8,229
+64,Relocate,9,218
+65,Relocate,7,217
+66,Relocate,6,210
+67,Relocate,10,206
+68,Relocate,1,195
+69,Relocate,2,177
+70,Relocate,11,167
+71,Relocate,12,154
+72,Return to Owner,3,969
+73,Return to Owner,12,885
+74,Return to Owner,1,874
+75,Return to Owner,10,865
+76,Return to Owner,5,844
+77,Return to Owner,11,833
+78,Return to Owner,2,824
+79,Return to Owner,4,799
+80,Return to Owner,6,758
+81,Return to Owner,7,741
+82,Return to Owner,9,704
+83,Return to Owner,8,622
+84,Rto-Adopt,4,266
+85,Rto-Adopt,3,248
+86,Rto-Adopt,5,244
+87,Rto-Adopt,8,213
+88,Rto-Adopt,10,210
+89,Rto-Adopt,9,205
+90,Rto-Adopt,6,198
+91,Rto-Adopt,7,198
+92,Rto-Adopt,1,183
+93,Rto-Adopt,12,169
+94,Rto-Adopt,2,163
+95,Rto-Adopt,11,153
+96,Transfer,4,1237
+97,Transfer,5,1124
+98,Transfer,3,964
+99,Transfer,6,953
+100,Transfer,7,942
+101,Transfer,8,886
+102,Transfer,10,884
+103,Transfer,9,788
+104,Transfer,1,652
+105,Transfer,11,651
+106,Transfer,12,638
+107,Transfer,2,626
